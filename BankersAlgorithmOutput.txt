@@ -1,0 +1,2 @@
+Resources allocated to process:3
+System is in unsafe state
