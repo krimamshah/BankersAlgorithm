@@ -1,2 +1,2 @@
-# BankersAlogrithm
+# BankersAlgorithm
 Simulation of Banker's Algorithm
